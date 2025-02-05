@@ -10,6 +10,8 @@ export async function restaurantListHandler(event: APIGatewayProxyEvent): Promis
     { name: 'The Cheesecake Factory', type: 'Dine in' },
     { name: 'Chipotle', type: 'Fast food' },
     { name: 'Macddonald', type: 'Fast food' },
+    { name: 'Panera Bread', type: 'Fast food' },
+    { name: 'Olive Garden', type: 'Fast food' },
   ];
 
   // Create a response object
