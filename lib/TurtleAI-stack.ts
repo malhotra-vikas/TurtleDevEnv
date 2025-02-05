@@ -117,58 +117,6 @@ export class TurtleAIStack extends cdk.Stack {
       resources: ['arn:aws:s3:::bulk-upload-contacts/*', 'arn:aws:s3:::bulk-upload-contacts', 'arn:aws:s3:::leasewiselynewleases/*']
     }))
 
-    // Create Lambda function for Paymets Capturing
-    const stripePaymentsCaptureLambda = new lambdaNodejs.NodejsFunction(this, Constants.GOLF_PRO_PAYMENTS_CAPTURE_LAMBDA, {
-      entry: 'src/lambda/payments-capture.ts', // Path to your Lambda code
-      handler: 'paymentsCaptureHandler', // The exported function name for creating contacts
-      runtime: lambda.Runtime.NODEJS_18_X,
-      environment: {
-        TABLE_NAME: turtleAIUserTable.tableName,
-      },
-      role: lambdaRole,
-      layers: [TurtleAILayer],
-      timeout: cdk.Duration.minutes(5),
-      functionName: Constants.GOLF_PRO_PAYMENTS_CAPTURE_LAMBDA
-    })
-
-
-    // Create Lambda function for Project Tagging
-    const venveoConversationsLambda = new lambdaNodejs.NodejsFunction(this, Constants.VENVEO_CONVERSATIONS_LAMBDA, {
-      entry: 'src/lambda/venveoConversations.ts', // Path to your Lambda code
-      handler: 'venVeoConversationsHandler', // The exported function name for creating contacts
-      runtime: lambda.Runtime.NODEJS_18_X,
-      environment: {
-        VENVEO_OPENAI_API_KEY: VENVEO_OPENAI_API_KEY,
-        VENVEO_SUPABASE_URL: VENVEO_SUPABASE_URL,
-        VENVEO_SUPABASE_KEY: VENVEO_SUPABASE_KEY
-      },
-      role: lambdaRole,
-      layers: [TurtleAILayer],
-      timeout: cdk.Duration.minutes(5),
-      functionName: Constants.VENVEO_CONVERSATIONS_LAMBDA,
-      bundling: {
-        nodeModules: ['openai', 'dotenv'] // Explicitly include  if not being bundled
-      }
-    })
-
-    // Create Lambda function for Project Tagging
-    const venveoProjectTaggingLambda = new lambdaNodejs.NodejsFunction(this, Constants.VENVEO_PROJECT_TAGGING_LAMBDA, {
-      entry: 'src/lambda/venveoProjectTagging.ts', // Path to your Lambda code
-      handler: 'venveoProjectTaggingHandler', // The exported function name for creating contacts
-      runtime: lambda.Runtime.NODEJS_18_X,
-      environment: {
-        VENVEO_OPENAI_API_KEY: VENVEO_OPENAI_API_KEY,
-        VENVEO_SUPABASE_URL: VENVEO_SUPABASE_URL,
-        VENVEO_SUPABASE_KEY: VENVEO_SUPABASE_KEY
-      },
-      role: lambdaRole,
-      layers: [TurtleAILayer],
-      timeout: cdk.Duration.minutes(5),
-      functionName: Constants.VENVEO_PROJECT_TAGGING_LAMBDA,
-      bundling: {
-        nodeModules: ['openai', 'dotenv'] // Explicitly include  if not being bundled
-      }
-    })
 
 
     // Schedule the Lambda function to run every 5 minutes
@@ -176,8 +124,6 @@ export class TurtleAIStack extends cdk.Stack {
       schedule: events.Schedule.rate(cdk.Duration.minutes(5)),
     });
 
-    // Set the target of the Rule as your Lambda function
-    lambdaSchedule.addTarget(new targets.LambdaFunction(venveoProjectTaggingLambda));
 
 
     const allergyListLambda = new lambdaNodejs.NodejsFunction(this, Constants.ALLERGY_LIST_LAMBDA, {
@@ -220,10 +166,6 @@ export class TurtleAIStack extends cdk.Stack {
     })
 
 
-    // Grant permissions to access DynamoDB
-    turtleAIUserTable.grantReadWriteData(stripePaymentsCaptureLambda)
-
-
     // Create API Gateway
     const api = new apigateway.RestApi(this, 'TurtleAI-Users-api', {
       deployOptions: {
@@ -231,27 +173,14 @@ export class TurtleAIStack extends cdk.Stack {
       },
     })
 
-    const usersResource = api.root.addResource('users')
-    const employeesResource = api.root.addResource('employees')
-    const projectsResource = api.root.addResource('projects')
-    const tasksResource = api.root.addResource('tasks')
-    const journalResource = api.root.addResource('journals')
-    const journalAnalysisResource = api.root.addResource('journalsAnalysis')
-    const debtCalcResource = api.root.addResource("debtCalculator")
-    const conversationsResource = api.root.addResource('conversations')
-    const recommendationsResource = api.root.addResource('recommendations')
-    const favoriteRecommendationsResource = api.root.addResource('favoriteRecommendations')
-    const fetchFavoriteRecommendationsResource = api.root.addResource('getFavoriteRecommendations')
-    const paymentsResource = api.root.addResource('payments')
     const allergyResource = api.root.addResource('allergyai')
     const restaurantResource = api.root.addResource('allergyai-restaurants')
     const restaurantMenuResource = api.root.addResource('allergyai-restaurant-menu')
-    const venVeoResource = api.root.addResource('venVeoAI')
+    //const venVeoResource = api.root.addResource('venVeo-AI')
 
     // Add GET method to Allergy List capturing
-    const venVeoConversationsLambdaIntegration = new apigateway.LambdaIntegration(venveoConversationsLambda)
-    venVeoResource.addMethod('GET', venVeoConversationsLambdaIntegration)
-
+    //const venVeoConversationsLambdaIntegration = new apigateway.LambdaIntegration(venveoConversationsLambda)
+    //venVeoResource.addMethod('GET', venVeoConversationsLambdaIntegration)
 
     // Add GET method to Allergy List capturing
     const allergyListLambdaIntegration = new apigateway.LambdaIntegration(allergyListLambda)
@@ -264,18 +193,6 @@ export class TurtleAIStack extends cdk.Stack {
     // Add GET method to Allergy List capturing
     const restaurantMenuLambdaIntegration = new apigateway.LambdaIntegration(restaurantMenuLambda)
     restaurantMenuResource.addMethod('GET', restaurantMenuLambdaIntegration)
-
-
-    // Add POST method to payments capturing
-    const paymentsCaptureIntegration = new apigateway.LambdaIntegration(stripePaymentsCaptureLambda)
-    paymentsResource.addMethod('POST', paymentsCaptureIntegration)
-
-    // IAM Policy to send emails using SES
-    const sesSendEmailPolicy = new iam.PolicyStatement({
-      effect: iam.Effect.ALLOW,
-      actions: ['ses:SendEmail', 'ses:SendRawEmail'],
-      resources: ['*'],
-    })
 
     // Output the API endpoint URL
     new cdk.CfnOutput(this, 'ApiEndpoint', {
