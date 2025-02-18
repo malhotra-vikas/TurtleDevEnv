@@ -1,0 +1,4243 @@
+{
+  "restaurant": "Taco Bell",
+  "menu": [
+    {
+      "item": "Slow Roasted Chicken Cheesy Dipping Burritos",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Slow Roasted Chicken",
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Avocado Ranch Sauce"
+
+      ],
+      "image": "https://www.tacobell.com/images/23519_slow_roasted_chicken_cheesy_dipping_burritos_269x269.jpg"
+    },
+    {
+      "item": "Steak Cheesy Dipping Burritos",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+	        "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Steak",
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Avocado Ranch Sauce"
+            ],
+      "image": "https://www.tacobell.com/images/23518_steak_cheesy_dipping_burritos_269x269.jpg"
+    },
+    {
+      "item": "Dirty MTN DEW BAJA BLAST Zero Dream Soda",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (16 oz)",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/3707_dirty_mtn_dew_baja_blast_zero_269x269.jpg"
+    },
+    {
+      "item": "Dirty MTN DEW BAJA BLAST Dream Soda",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/3704_dirty_mtn_dew_baja_blast_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW BAJA BLAST Strawberry Dream Freeze",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+    
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (16 oz)",
+        "Vanilla Creamer",
+        "Wild Strawberry Freeze (16 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/2096_mtn_dew_baja_blast_dream_strawberry_freeze_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW BAJA BLAST Strawberry Dream Freeze",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)",
+        "Vanilla Creamer",
+        "Wild Strawberry Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/2096_mtn_dew_baja_blast_dream_strawberry_freeze_269x269.jpg"
+    },
+    {
+      "item": "Steak Garlic Nacho Fries",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Fries",
+        "Nacho Cheese Sauce",
+        "Steak",
+        "Pico de Gallo",
+        "Garlic Ranch Sauce",
+        "Cheddar Cheese"
+
+      ],
+      "image": "https://www.tacobell.com/images/23891_steak_garlic_nacho_fries_269x269.jpg"
+    },
+    {
+      "item": "Avocado Verde Salsa Sauce Packet",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Avocado Salsa Verde"
+           ],
+      "image": "https://www.tacobell.com/images/23476_new_avocado_verde_salsa_sauce_packet_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Bowl",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Eggs",
+          "Gluten",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Rice",
+        "Slow Roasted Chicken",
+        "Black Beans",
+        "Guacamole",
+        "Pico de Gallo",
+        "Cheddar Cheese",
+        "Iceberg Lettuce",
+        "Purple Cabbage",
+        "Reduced-Fat Sour Cream",
+        "Avocado Ranch Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/23473_new_cantina_chicken_bowl_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Burrito Meal",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Slow Roasted Chicken",
+        "Flour Tortilla",
+        "Pico de Gallo",
+        "Cheddar Cheese",
+        "Avocado Ranch Sauce",
+        "Creamy Chipotle Sauce",
+        "Iceberg Lettuce",
+        "Purple Cabbage"
+      ],
+      "image": "https://www.tacobell.com/images/23479_new_cantina_chicken_burrito_meal_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Crispy Taco",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Eggs",
+          "Gluten",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+          
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Slow Roasted Chicken",
+        "Three Cheese Blend",
+        "White Corn Shell",
+        "Creamy",
+       "Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/23471_new_cantina_chicken_crispy_taco_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Three Cheese Blend",
+        "Flour Tortilla",
+        "Slow Roasted Chicken",
+        "Creamy Chipotle Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/23477_new_cantina_chicken_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Slow Roasted Chicken",
+        "Flour Tortilla",
+        "Pico de Gallo",
+        "Cheddar Cheese",
+        "Iceberg Lettuce",
+        "Purple Cabbage",
+        "Avocado Ranch",
+        "Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/23470_new_cantina_chicken_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Black Bean Chalupa Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Chalupa Flatbread",
+        "Black Beans",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Iceberg Lettuce",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/23153_black_bean_chalupa_269x269.jpg"
+    },
+    {
+      "item": "Chalupa Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Chalupa Flatbread",
+        "Seasoned Beef",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/22850_chalupa_supreme_269x269.jpg"
+    },
+    {
+      "item": "Chalupa Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Chalupa Flatbread",
+        "Grilled Chicken",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/22850_chalupa_supreme_269x269.jpg"
+    },
+    {
+      "item": "Chalupa Supreme - Steak",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+          
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Chalupa Flatbread",
+        "Steak",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Three Cheese Blend"
+      ],
+      "image": ""
+    },
+    {
+      "item": "Cheesy Gordita Crunch",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Gordita Flatbread",
+        "Seasoned Beef",
+        "Three Cheese Blend",
+        "Iceberg Lettuce",
+        "Spicy Ranch Sauce",
+        "Taco Shell",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22813_cheesy_gordita_crunch_269x269.jpg"
+    },
+    {
+      "item": "Crunchy Taco",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Soy",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Iceberg Lettuce",
+        "Taco Shell",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22100_crunchy_taco_269x269.jpg"
+    },
+    {
+      "item": "Crunchy Taco Supreme",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Soy",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Taco Shell",
+        "Tomatoes",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22101_crunchy_taco_supreme_269x269.jpg"
+    },
+    {
+      "item": "Double Stacked Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Taco Shell",
+        "Cheddar Cheese",
+        "Fiesta Tortilla Strips"
+      ],
+      "image": "https://www.tacobell.com/images/26018_new_double_stacked_taco_269x269.jpg"
+    },
+    {
+      "item": "Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22110_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Cantina Chicken Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Grilled Chicken",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22110_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Soft Taco Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22111_soft_taco_supreme_269x269.jpg"
+    },
+    {
+      "item": "Soft Taco Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Grilled Chicken",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22111_soft_taco_supreme_269x269.jpg"
+    },
+    {
+      "item": "Spicy Potato Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22259_spicy_potato_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Bean Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"        
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Refried Beans",
+        "Flour Tortilla",
+        "Red Sauce",
+        "Cheddar Cheese",
+        "Onions"
+      ],
+      "image": "https://www.tacobell.com/images/22200_bean_burrito_269x269.jpg"
+    },
+    {
+      "item": "Beefy 5-Layer Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",          
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Refried Beans",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream",
+        "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22167_beefy_5_layer_burrito_269x269.jpg"
+    },
+    {
+      "item": "Black Bean Grilled Cheese Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Black Beans",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/23290_black_bean_grilled_cheese_burrito_269x269.jpg"
+    },
+    {
+      "item": "Burrito Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Seasoned Refried Beans",
+        "Red Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+      ],
+      "image": "https://www.tacobell.com/images/22201_burrito_supreme_269x269.jpg"
+    },
+    {
+      "item": "Burrito Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Refried Beans",
+        "Grilled Chicken",
+        "Red Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+      ],
+      "image": "https://www.tacobell.com/images/22201_burrito_supreme_269x269.jpg"
+    },
+    {
+      "item": "Burrito Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Refried Beans",
+        "Steak",
+        "Red Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Cheddar Cheese",
+        "Onions"
+      ],
+      "image": "https://www.tacobell.com/images/22201_burrito_supreme_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Bean and Rice Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      "Flour Tortilla",
+      "Seasoned Refried Beans",
+      "Seasoned Rice",
+      "Nacho Cheese Sauce",
+      "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Double Beef Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      "Seasoned Beef",
+      "Seasoned Rice",
+      "Nacho Cheese Sauce",
+      "Three Cheese Blend",
+      "Fiesta Tortilla Strips",
+      "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/23226_new_cheesy_double_beef_burrito_269x269.jpg"
+    },
+    {
+      "item": "Chicken Enchilada Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      "Flour Tortilla",
+      "Grilled Chicken",
+      "Seasoned Rice",
+      "Red Sauce",
+      "Three Cheese Blend",
+      "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/23394_new_chicken_enchilada_burrito_269x269.jpg"
+    },
+    {
+      "item": "Chili Cheese Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      "Flour Tortilla",
+      "Chili (Regional)",
+      "Cheddar Cheese"
+      ],
+      "image": "https://www.tacobell.com/images/22205_chili_cheese_burrito_269x269.jpg"
+    },
+    {
+      "item": "Grilled Cheese Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Seasoned Beef",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22963_beef_grilled_cheese_burrito_269x269.jpg"
+    },
+    {
+      "item": "Grilled Cheese Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Grilled Chicken",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22963_beef_grilled_cheese_burrito_269x269.jpg"
+    },
+    {
+      "item": "Grilled Cheese Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Seasoned Rice",
+        "Steak",
+        "Nacho Cheese Sauce",
+        "Creamy Chipotle Sauce",
+        "Fiesta Tortilla Strips",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22963_beef_grilled_cheese_burrito_269x269.jpg"
+    },
+    {
+      "item": "Chips and Nacho Cheese Sauce",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Cheese Sauce",
+        "Nacho Chips"
+      ],
+      "image": "https://www.tacobell.com/images/22500_chips_and_nacho_cheese_sauce_269x269.jpg"
+    },
+    {
+      "item": "Loaded Beef Nachos",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Beef",
+        "Seasoned Refried Beans",
+        "Guacamole",
+        "Red Sauce",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22159_new_loaded_beef_nachos_269x269.jpg"
+    },
+    {
+      "item": "Nachos BellGrande",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Refried Beans",
+        "Nacho Cheese Sauce",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    },
+    {
+      "item": "Nachos BellGrande",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Refried Beans",
+        "Nacho Cheese Sauce",
+        "Seasoned Beef",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    },
+    {
+      "item": "Nachos BellGrande",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Refried Beans",
+        "Nacho Cheese Sauce",
+        "Grilled Chicken",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    },
+    {
+      "item": "Nachos BellGrande",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Refried Beans",
+        "Nacho Cheese Sauce",
+        "Steak",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/22502_nachos_bellgrande_269x269.jpg"
+    },
+    {
+      "item": "Cheese Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22320_cheese_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "Chicken Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Grilled Chicken",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22321_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "Steak Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Steak",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22322_steak_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "3 Cheese Chicken Flatbread Melt",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Gordita Flatbread",
+        "Grilled Chicken",
+        "Three Cheese Blend",
+        "Creamy Chipotle Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/23499_new_3_cheese_chicken_flatbread_melt_269x269.jpg"
+    },
+    {
+      "item": "Black Bean Crunchwrap Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+      ],
+      "image": "https://www.tacobell.com/images/26051_vegetarian_crunchwrap_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Roll Up ",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+      ],
+      "image": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "item": "Crunchwrap Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+      ],
+      "image": "https://www.tacobell.com/images/22362_crunchwrap_supreme_269x269.jpg"
+    },
+    {
+      "item": "Mexican Pizza",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mexican Pizza Shell",
+        "Seasoned Beef",
+        "Seasoned Refried Beans",
+        "Three Cheese Blend",
+        "Mexican Pizza Sauce",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/22303_mexican_pizza_269x269.jpg"
+    },
+    {
+      "item": "Classic Stacker",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Beef",
+        "Three Cheese Blend",
+        "Nacho Cheese Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/24513_stacker_269x269.jpg"
+    },
+    {
+      "item": "Veggie Mexican Pizza",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mexican Pizza Shell",
+        "Seasoned Refried Beans",
+        "Three Cheese Blend",
+        "Mexican Pizza Sauce",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/23326_veggie_mexican_pizza_269x269.jpg"
+    },
+    {
+      "item": "Black Beans and Rice",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Rice",
+        "Black Beans"
+      ],
+      "image": "https://www.tacobell.com/images/22393_black_beans_and_rice_269x269.jpg"
+    },
+    {
+      "item": "Black Beans",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Black Beans"
+      ],
+      "image": "https://www.tacobell.com/images/22394_black_beans_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Fiesta Potatoes",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22530_cheesy_fiesta_potatoes_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 2 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Cinnabon Delights™"
+      ],
+      "image": "https://www.tacobell.com/images/30046_cinnabon_delights_2_pack_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 12 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Cinnabon Delights™"
+      ],
+      "image": "https://www.tacobell.com/images/30045_cinnabon_delights_12_pack_269x269.jpg"
+    },
+    {
+      "item": "Cinnamon Twists",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Wheat",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Cinnamon Twists"
+      ],
+      "image": "https://www.tacobell.com/images/22525_cinnamon_twists_269x269.jpg"
+    },
+    {
+      "item": "Diablo Sauce Packet",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Border Sauce - Diablo"
+      ],
+      "image": "https://www.tacobell.com/images/22765_diablo_sauce_packet_269x269.jpg"
+    },
+    {
+      "item": "Fire Sauce Packet",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Wheat",
+          "Soy",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Border Sauce - Fire"
+      ],
+      "image": "https://www.tacobell.com/images/22759_fire_sauce_packet_269x269.jpg"
+    },
+    {
+      "item": "Hot Sauce Packet",
+      "allergens": {
+        "contains": [
+          "Soy",
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Border Sauce - Hot"
+      ],
+      "image": "https://www.tacobell.com/images/22760_hot_sauce_packet_269x269.jpg"
+    },
+    {
+      "item": "Large Nacho Fries",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Fries",
+        "Nacho Cheese Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/28183_nacho_fries_large_269x269.jpg"
+    },
+    {
+      "item": "Mild Sauce Packet",
+      "allergens": {
+        "contains": [
+          "Soy",
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+         "Peanuts",
+         "Wheat",
+         "MSG",
+         "Sesame" 
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "CoBorder Sauce - Mildrn"
+      ],
+      "image": "https://www.tacobell.com/images/22763_mild_sauce_packet_269x269.jpg"
+    },
+    {
+      "item": "Nacho Fries",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [       
+        ]
+      },
+      "ingredients": [
+        "Seasoned Fries",
+        "Nacho Cheese Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/28095_nacho_fries_269x269.jpg"
+    },
+    {
+      "item": "Pintos N Cheese",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Refried Beans",
+        "Red Sauce",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/22510_pintos_n_cheese_269x269.jpg"
+    },
+    {
+      "item": "Hot Cinnabon Delights Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",          
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer",
+        "Cinnabon Delights Flavored Coffee Syrup"
+      ],
+      "image": "https://www.tacobell.com/images/1280_hot_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Iced Cinnabon Delights Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer",
+        "Cinnabon Delights Flavored Coffee Syrup"
+      ],
+      "image": "https://www.tacobell.com/images/1279_iced_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Premium Hot Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",          
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/1527_premium_hot_coffee_269x269.jpg"
+    },
+    {
+      "item": "Regular Iced Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",          
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",          
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [      
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/1534_iced_regular_coffee_269x269.jpg"
+    },
+    {
+      "item": "Lowfat Milk - CA (Regional)",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Lowfat Milk - CA (Regional)"
+      ],
+      "image": ""
+    },
+    {
+      "item": "Lowfat Milk - Federal (Regional)",
+      "allergens": {
+        "contains": [
+          "Milk",
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [      
+        ]
+      },
+      "ingredients": [
+        "Lowfat Milk - Federal (Regional)"
+      ],
+      "image": ""
+    },
+    {
+      "item": "MTN DEW Baja Blast",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (16 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/3704_dirty_mtn_dew_baja_blast_269x269.jpg"
+    },
+    {
+      "item": "Mtn Dew Baja Blast Freeze (20 oz)",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/3704_dirty_mtn_dew_baja_blast_269x269.jpg"
+    },
+    {
+      "item": "Tropicana Orange Juice",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"     
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Tropicana Orange Juice"
+      ],
+      "image": "https://www.tacobell.com/images/1440_tropicana_orange_juice_269x269.jpg"
+    },
+    {
+      "item": "Premium Roast Coffee - Hot",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+                       
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee"
+      ],
+      "image": ""
+    },
+    {
+      "item": "Premium Roast Coffee - Iced",
+      "allergens": {
+        "contains": [
+          "Gluten ",  
+          "Milk",        
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"               
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee"
+      ],
+      "image": ""
+    },
+    {
+      "item": "Water",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"     
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Water"
+      ],
+      "image": ""
+    },
+    {
+      "item": "Wild Strawberry Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"  
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Wild Strawberry Freeze (16 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1634_wild_strawberry_freeze_269x269.jpg"
+    },
+    {
+      "item": "Wild Strawberry Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk", 
+          "Eggs",  
+          "Fish",      
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                   
+        ],
+        "mayContain": [      
+        ]
+      },
+      "ingredients": [
+        "Wild Strawberry Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1634_wild_strawberry_freeze_269x269.jpg"
+    },
+    {
+      "item": "3 Cheese Chicken Flatbread Melt",
+      "allergens": {
+        "contains": [
+          "Gluten",   
+          "Milk",  
+          "Eggs",    
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Gordita Flatbread",
+        "Grilled Chicken",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/23499_new_3_cheese_chicken_flatbread_melt_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Bean and Rice Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",         
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"               
+        ],
+        "mayContain": [ 
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Refried Beans",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Double Beef Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",         
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Three Cheese Blend",
+        "Fiesta Tortilla Strips",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/23226_new_cheesy_double_beef_burrito_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Fiesta Potatoes",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"             
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22530_cheesy_fiesta_potatoes_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Roll Up",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Wheat",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [       
+        ]
+      },
+      "ingredients": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+      ],
+      "image": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg"
+    },
+    {
+      "item": "Chicken Enchilada Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",          
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"   
+        ],
+        "mayContain": [        
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Grilled Chicken",
+        "Red Sauce",
+        "Three Cheese Blend",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/23394_new_chicken_enchilada_burrito_269x269.jpg"
+    },
+    {
+      "item": "Double Stacked Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",  
+          "Milk",
+          "Wheat",        
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"               
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Seasoned Beef",
+        "Flour Tortilla",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Taco Shell",
+        "Cheddar Cheese",
+        "Fiesta Tortilla Strips"
+      ],
+      "image": "https://www.tacobell.com/images/26018_new_double_stacked_taco_269x269.jpg"
+    },
+    {
+      "item": "Loaded Beef Nachos",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",          
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+        "Nacho Chips",
+        "Seasoned Beef",
+        "Seasoned Refried Beans",
+        "Guacamole",
+        "Red Sauce",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22159_new_loaded_beef_nachos_269x269.jpg"
+    },
+    {
+      "item": "Spicy Potato Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",          
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22259_spicy_potato_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Bean Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk" ,         
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"            
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Seasoned Refried Beans",
+        "Flour Tortilla",
+        "Red Sauce",
+        "Cheddar Cheese",
+        "Onions"
+      ],
+      "image": "https://www.tacobell.com/images/22200_bean_burrito_269x269.jpg"
+    },
+    {
+      "item": "Black Bean Chalupa Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",         
+          "Wheat",
+          "Soy",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Chalupa Flatbread",
+        "Black Beans",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Iceberg Lettuce",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/23153_black_bean_chalupa_269x269.jpg"
+    },
+    {
+      "item": "Black Bean Crunchwrap Supreme",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk" ,         
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame" 
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Black Beans",
+        "Nacho Cheese Sauce",
+        "Iceberg Lettuce",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Tostada Shells"
+      ],
+      "image": "https://www.tacobell.com/images/26051_vegetarian_crunchwrap_269x269.jpg"
+    },
+    {
+      "item": "Black Beans",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Black Beans"
+      ],
+      "image": "https://www.tacobell.com/images/22394_black_beans_269x269.jpg"
+    },
+    {
+      "item": "Black Beans and Rice",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Seasoned Rice",
+        "Black Beans"
+      ],
+      "image": "https://www.tacobell.com/images/22393_black_beans_and_rice_269x269.jpg"
+    },
+    {
+      "item": "Cheese Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [ 
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22320_cheese_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Bean and Rice Burrito",
+      "allergens": {
+        "contains": [
+          "Gluten",   
+          "Milk",
+          "Eggs", 
+          "Wheat",    
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"      
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Seasoned Refried Beans",
+        "Seasoned Rice",
+        "Nacho Cheese Sauce",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22283_cheesy_bean_and_rice_burrito_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Fiesta Potatoes",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"             
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Reduced-Fat Sour Cream"
+      ],
+      "image": "https://www.tacobell.com/images/22530_cheesy_fiesta_potatoes_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Roll Up",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Wheat",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"      
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Three Cheese Blend",
+        "Flour Tortilla"
+      ],
+      "image": "https://www.tacobell.com/images/22152_cheesy_roll_up_269x269.jpg33cevrt "
+    },
+    {
+      "item": "Chips and Nacho Cheese Sauce",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"     
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Nacho Cheese Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22500_chips_and_nacho_cheese_sauce_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 2 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"     
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Cinnabon Delights™"
+      ],
+      "image": "https://www.tacobell.com/images/30046_cinnabon_delights_2_pack_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 12 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+        "Cinnabon Delights™"
+      ],
+      "image": "https://www.tacobell.com/images/30045_cinnabon_delights_12_pack_269x269.jpg"
+    },
+    {
+      "item": "Cinnamon Twists",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Wheat",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"        
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Cinnamon Twists"
+      ],
+      "image": "https://www.tacobell.com/images/22525_cinnamon_twists_269x269.jpg"
+    },
+    {
+      "item": "Hash Brown",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Hash Browns"
+      ],
+      "image": "https://www.tacobell.com/images/30017_hash_brown_269x269.jpg"
+    },
+    {
+      "item": "Pintos N Cheese'",
+      "allergens": {
+        "contains": [
+          "Milk",  
+          "Gluten", 
+          "Eggs",        
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Seasoned Refried Beans",
+        "Red Sauce",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/22510_pintos_n_cheese_269x269.jpg"
+    },
+    {
+      "item": "Spicy Potato Soft Taco",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"  
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Potato Bites",
+        "Flour Tortilla",
+        "Iceberg Lettuce",
+        "Cheddar Cheese",
+        "Creamy Chipotle Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/22259_spicy_potato_soft_taco_269x269.jpg"
+    },
+    {
+      "item": "Veggie Bowl",
+      "allergens": {
+        "contains": [
+          "Milk",          
+          "Eggs",
+          "Gluten",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Seasoned Rice",
+        "Black Beans",
+        "Iceberg Lettuce",
+        "Guacamole",
+        "Cheddar Cheese",
+        "Reduced-Fat Sour Cream",
+        "Tomatoes",
+        "Avocado Ranch Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/29132_veggie_bowl_269x269.jpg"
+    },
+    {
+      "item": "Veggie Mexican Pizza",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Wheat",
+          "Eggs",          
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"     
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Mexican Pizza Shell",
+        "Seasoned Refried Beans",
+        "Three Cheese Blend",
+        "Mexican Pizza Sauce",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/23326_veggie_mexican_pizza_269x269.jpg"
+    },
+    {
+      "item": "Breakfast California Crunchwrap",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat" ,
+          "Fish",          
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Cheddar Cheese",
+        "Eggs",
+        "Guacamole",
+        "Bacon",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/30093_breakfast_crunchwrap_california_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Crunchwrap Bacon",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat",          
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"      
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Cheddar Cheese",
+        "Eggs",
+        "Bacon",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/30029_breakfast_crunchwrap_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Crunchwrap Sausage",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat", 
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame" 
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Sausage Patty",
+        "Cheddar Cheese",
+        "Eggs",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/30028_breakfast_crunchwrap_sausage_patty_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Crunchwrap - Steak",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",  
+          "Eggs",       
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"             
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Steak",
+        "Cheddar Cheese",
+        "Eggs",
+        "Creamy Jalapeno Sauce"
+      ],
+      "image": "https://www.tacobell.com/images/32031_breakfast_crunchwrap_combo_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Quesadilla Bacon",
+      "allergens": {
+        "contains": [
+          "Gluten",  
+          "Milk",         
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                    
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Eggs",
+        "Bacon"
+      ],
+      "image": "https://www.tacobell.com/images/30151_breakfast_quesadilla_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Quesadilla Sausage",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend",
+        "Eggs",
+        "Sausage Crumbles"
+      ],
+      "image": "https://www.tacobell.com/images/30152_breakfast_quesadilla_sausage_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Quesadilla Steak",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [        
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Three Cheese Blend ",
+        "Steak",
+        "Eggs"
+      ],
+      "image": "https://www.tacobell.com/images/30153_breakfast_quesadilla_steak_269x269.jpg"
+    },
+    {
+      "item": "Breakfast Salsa",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Wheat",
+          "Soy",        
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Breakfast Salsa"
+      ],
+      "image": "https://www.tacobell.com/images/2633_breakfast_salsa_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Toasted Breakfast Burrito Bacon",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",                   
+          "Shellfish",
+          "Tree Nuts", 
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"   
+        ],
+        "mayContain": [        
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Nacho Cheese Sauce",
+        "Bacon"
+      ],
+      "image": "https://www.tacobell.com/images/30179_cheesy_toasted_burrito_bacon_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Toasted Breakfast Burrito Potato",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"        
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Potato Bites",
+        "Nacho Cheese Sauce",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/30181_cheesy_toasted_burrito_fiesta_potato_269x269.jpg"
+    },
+    {
+      "item": "Cheesy Toasted Breakfast Burrito Sausage",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Nacho Cheese Sauce",
+        "Sausage Crumbles"
+      ],
+      "image": "https://www.tacobell.com/images/30180_cheesy_toasted_breakfast_burrito_sausage_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 2 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",           
+          "Eggs",
+          "Wheat",
+          "Soy",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Cinnabon Delights™"
+      ],
+      "image": "https://www.tacobell.com/images/30046_cinnabon_delights_2_pack_269x269.jpg"
+    },
+    {
+      "item": "Cinnabon Delights 12 Pack",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Soy", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "MSG",
+          "Sesame"
+                   
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/30045_cinnabon_delights_12_pack_269x269.jpg"
+    },
+    {
+      "item": "Hot Cinnabon Delights Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",          
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer",
+        "Cinnabon Delights Flavored Coffee Syrup"
+      ],
+      "image": "https://www.tacobell.com/images/1280_hot_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Iced Cinnabon Delights® Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",      
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [        
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer",
+        "Cinnabon Delights Flavored Coffee Syrup"
+      ],
+      "image": "https://www.tacobell.com/images/1279_iced_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Bacon",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                   
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Potato Bites",
+        "Three Cheese Blend",
+        "Bacon",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/30185_grande_toasted_burrito_bacon_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Sausage",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Potato Bites",
+        "Three Cheese Blend",
+        "Sausage Crumbles",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/30186_grande_toasted_burrito_sausage_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Steak",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                    
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Eggs",
+        "Potato Bites",
+        "Steak",
+        "Three Cheese Blend",
+        "Tomatoes"
+      ],
+      "image": "https://www.tacobell.com/images/30187_grande_toasted_burrito_steak_269x269.jpg"
+    },
+    {
+      "item": "Hash Brown",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/30017_hash_brown_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Bacon",
+      "allergens": {
+        "contains": [
+          "Gluten",
+           "Milk",
+           "Eggs",
+           "Wheat",
+           "Fish",
+           "Shellfish",
+           "Tree Nuts",
+           "Peanuts",
+           "Soy",
+           "MSG",
+           "Sesame"            
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Eggs",
+        "Three Cheese Blend",
+        "Bacon"
+      ],
+      "image": "https://www.tacobell.com/images/30185_grande_toasted_burrito_bacon_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Sausage",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG ",
+          "Sesame"               
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Eggs",
+        "Three Cheese Blend",
+        "Sausage Crumbles"
+      ],
+      "image": "https://www.tacobell.com/images/30186_grande_toasted_burrito_sausage_269x269.jpg"
+    },
+    {
+      "item": "Grande Toasted Breakfast Burrito Steak",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Wheat",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Soy",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Flour Tortilla",
+        "Hash Browns",
+        "Steak",
+        "Eggs",
+        "Three Cheese Blend"
+      ],
+      "image": "https://www.tacobell.com/images/30187_grande_toasted_burrito_steak_269x269.jpg"
+    },
+    {
+      "item": "Hot Cinnabon Delights Coffee",
+      "allergens": {
+        "contains": [
+          "Milk", 
+          "Gluten",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/1280_hot_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Iced Cinnabon Delights Coffee",
+      "allergens": {
+        "contains": [
+          "Milk",          
+          "Gluten",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee",
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/1279_iced_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "Orange Juice",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"    
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Tropicana Orange Juice"
+      ],
+      "image": "https://www.tacobell.com/images/1440_tropicana_orange_juice_1025x480.jpg"
+    },
+    {
+      "item": "Premium Hot Coffee",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",         
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Colombian Blend Premium Roast Coffee"
+      ],
+      "image": "https://www.tacobell.com/images/1527_premium_hot_coffee_269x269.jpg"
+    },
+    {
+      "item": "Regular Iced Coffee",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Ice, Colombian Blend Premium Roast Coffee"
+      ],
+      "image": "https://www.tacobell.com/images/1534_iced_regular_coffee_269x269.jpg"
+    },
+    {
+      "item": "Vanilla Creamer*",
+      "allergens": {
+        "contains": [
+          "Milk",          
+          "Gluten",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"       
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+        "Vanilla Creamer"
+      ],
+      "image": "https://www.tacobell.com/images/1279_iced_cinnabon_delight_coffee_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (16 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"        
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+       "Mtn Dew Baja Blast Freeze (16 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Freeze",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+        "Mtn Dew Baja Blast Freeze (20 oz)"
+      ],
+      "image": "https://www.tacobell.com/images/1491_mtn_dew_baja_blast_freeze_269x269.jpg"
+    },
+    {
+      "item": "Brisk Dragon Paradise Sparkling Iced Tea",
+      "allergens": {
+        "contains": [          
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"         
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1141_brisk_dragon_paradise_sparkling_iced_tea_269x269.jpg"
+    },
+    {
+      "item": "Brisk Mango Fiesta",
+      "allergens": {
+        "contains": [              
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"      
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1219_brisk_mango_fiesta_new_269x269.jpg"
+    },
+    {
+      "item": "Brisk Unsweetened No Lemon Iced Tea (16 fl oz)",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",       
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [        
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": ""
+    },
+    {
+      "item": "Diet Dr Pepper (16 fl oz)",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame" 
+        ],
+        "mayContain": [  
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": ""
+    },
+    {
+      "item": "Diet Pepsi",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"        
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": ""
+    },
+    {
+      "item": "Dr Pepper (16 fl oz)",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": ""
+    },
+    {
+      "item": "G2 Gatorade Fruit Punch",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"          
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1099_gatorade_g2_fruit_punch_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish", 
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"       
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1012_mtn_dew_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG" ,
+          "Sesame"  
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1027_mountain_dew_baja_blast_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Baja Blast Zero Sugar",
+      "allergens": {
+        "contains": [
+          "Gluten", 
+          "Milk",  
+          "Eggs",       
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                 
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1110_mountain_dew_baja_blast_zero_269x269.jpg"
+    },
+    {
+      "item": "MTN DEW Zero",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [            
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1147_mtn_dew_zero_269x269.jpg"
+    },
+    {
+      "item": "Mug Root Beer",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1062_mug_root_beer_269x269.jpg"
+    },
+    {
+      "item": "Pepsi",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs", 
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                    
+        ],
+        "mayContain": [          
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1002_pepsi_new_269x269.jpg"
+    },
+    {
+      "item": "Cherry Pepsi",
+      "allergens": {
+        "contains": [
+          "Gluten",
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1072_cherry_pepsi_269x269.jpg"
+    },
+    {
+      "item": "Pepsi Zero Sugar",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",          
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1107_pepsi_zero_sugar_269x269.jpg"
+    },
+    {
+      "item": "Starry",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                  
+        ],
+        "mayContain": [         
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": "https://www.tacobell.com/images/1153_starry_269x269.jpg"
+    },
+    {
+      "item": "Tropicana Original Lemonade (16 oz)",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Milk",
+          "Eggs",
+          "Fish",
+          "Shellfish",
+          "Tree Nuts",
+          "Peanuts",
+          "Wheat",
+          "Soy",
+          "MSG",
+          "Sesame"                
+        ],
+        "mayContain": [           
+        ]
+      },
+      "ingredients": [
+      ],
+      "image": ""
+    },
+    {
+      "item": "Kids Quesadilla",
+      "allergens": {
+        "contains": [
+          "Gluten",          
+          "Wheat",
+          "Milk",
+          "Soy"          
+        ],
+        "mayContain": [
+          "shellfish",
+          "Fish",
+          "Tree Nuts",
+          "Peanuts",
+          "Eggs",          
+          "Sesame"          
+        ]
+      },
+      "ingredients": [
+        "Tortilla",
+        "Melted Cheese"
+      ],
+      "image": "https://olo-images-live.imgix.net/f7/f764dfc1d67d4cd6a1611529482dc597.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=234e182968e4cd086464fc67b68018b9"
+    }  
+  ]
+}
+
