@@ -3,6 +3,7 @@
   "menu": [
       {
           "item": "Bacon, Egg & Cheese Biscuit",
+          "price": "$10.99",
           "allergens": {
               "contains": [
                   "Wheat",
@@ -24,6 +25,7 @@
       },
       {
           "item": "Egg McMuffin",
+          "price": "$10.99",
           "allergens": {
               "contains": [
                   "Wheat",
@@ -45,6 +47,7 @@
       },
       {
           "item": "Sausage McMuffin",
+          "price": "$10.99",
           "allergens": {
               "contains": [
                   "Wheat",

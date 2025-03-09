@@ -10,7 +10,8 @@ AWS.config.update({ region: Constants.AWS_REGION })
 const s3 = new AWS.S3();
 
 const bucketName = '1010public';
-const fileKey = 'the_cheesecake_factory_allergens_full.json';
+//const fileKey = 'the_cheesecake_factory_allergens_full.json';
+const fileKey = 'restaurants_full.json';
 
 export async function restaurantMenuHandler(event: APIGatewayProxyEvent): Promise<APIGatewayProxyResult> {
     console.log("Lambda Event is ", JSON.stringify(event));
