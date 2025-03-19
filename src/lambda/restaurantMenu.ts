@@ -1,49 +1,34 @@
-import AWS = require('aws-sdk')
-import { APIGatewayProxyEvent, APIGatewayProxyResult } from 'aws-lambda'
-import * as Constants from '../utils/constants'
-import * as fs from 'fs';
-import * as path from 'path';
+import { APIGatewayProxyEvent, APIGatewayProxyResult } from "aws-lambda";
+import fetch from "node-fetch";
 
-AWS.config.update({ region: Constants.AWS_REGION })
-
-// Initialize the S3 client
-const s3 = new AWS.S3();
-
-const bucketName = '1010public';
-//const fileKey = 'the_cheesecake_factory_allergens_full.json';
-const fileKey = 'restaurants_full.json';
+const fileUrl = "https://1010publicfolder.s3.us-east-2.amazonaws.com/restaurants_full.json";
 
 export async function restaurantMenuHandler(event: APIGatewayProxyEvent): Promise<APIGatewayProxyResult> {
     console.log("Lambda Event is ", JSON.stringify(event));
 
-    
     try {
-        // Fetch the JSON file from S3
-        const response = await s3
-            .getObject({ Bucket: bucketName, Key: fileKey })
-            .promise();
+        // Fetch the JSON file directly from the public S3 URL
+        const response = await fetch(fileUrl);
+        if (!response.ok) {
+            throw new Error(`Failed to fetch file: ${response.statusText}`);
+        }
 
-        const data = JSON.parse(response.Body?.toString('utf-8') || '{}');
+        const data = await response.json();
         console.log("Data in JSON is ", JSON.stringify(data));
 
         // Create a response object
-        const lambdaResponse = {
+        return {
             statusCode: 200,
             headers: {
-                'Access-Control-Allow-Origin': '*',
-                'Content-Type': 'application/json',
+                "Access-Control-Allow-Origin": "*",
+                "Content-Type": "application/json",
                 "Access-Control-Allow-Methods": "GET, OPTIONS",
-                "Access-Control-Allow-Headers": "Content-Type"
+                "Access-Control-Allow-Headers": "Content-Type",
             },
-
-            body: JSON.stringify(data)
+            body: JSON.stringify(data),
         };
-
-        return lambdaResponse;
-
-
     } catch (error) {
-        console.error("Error occurred:", error);
+        console.error("❌ Error occurred:", error);
 
         return {
             statusCode: 500,
